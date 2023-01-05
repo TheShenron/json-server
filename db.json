@@ -1,0 +1,42 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 50000
+    },
+    {
+      "id": 2,
+      "brand": "kia",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 100,
+      "Description": "Tata Altroz with all original documents",
+      "Price": "1000"
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000,
+      "id": 2
+    }
+  ]
+}
