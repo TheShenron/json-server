@@ -40,10 +40,18 @@
     }
   ],
   "user": [
-  
+    {
+      "id": 1673104487872,
+      "email": "test@gmail.com",
+      "password": "1234",
+      "username": "TestUser"
+    }
   ],
   "list": [
-    
+    {
+      "id": 1673107973634,
+      "userid": 1673104487872,
+      "task": "Task1"
+    }
   ]
-
 }
